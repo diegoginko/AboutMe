@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="bio">Este es el texto de la bio, representa lo que queres decir de vos mismo en la app.</string>
+    <string name="what_is_your_nickname">cual es tu apodo</string>
+</resources>
